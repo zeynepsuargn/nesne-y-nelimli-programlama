@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\c# 2. hafta\nyp ödev\nyp 2. hafta ödevi ; class\nyp 3. hafta\nyp 3. hafta ödev\nyp 3. hafta ödev devam\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\OneDrive\Masaüstü\CShapDers3-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
